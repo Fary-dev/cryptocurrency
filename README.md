@@ -1,6 +1,8 @@
 # crypto_app
 
 A new Flutter project.
+<img src="assets/LIST.jpeg" width="300">
+<img src="assets/PAGE.jpeg" width="300">
 
 ## Getting Started
 
